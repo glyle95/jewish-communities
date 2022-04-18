@@ -4,6 +4,10 @@
         <surname>Perl</surname>
         <forname>Sam</forname>
         <roleName type="honorific">Lay Rabbi</roleName>
+        <birth when="1898"/>
+        <birth where="Podjace, Austria-Hungary"/>
+        <death when="1980"/>
+        <death where="San Antonio, TX"/>
         <note>Owner of Perl Brothers</note>
     </persName>
 </s>
@@ -12,6 +16,7 @@
         <surname>Perl</surname>
         <formane>Leon</formane>
         <note>Owner of Perl Brothers</note>
+        <birth where="Podjace, Austria-Hungary"/>
     </persName>
 </s>
 <s>
@@ -20,5 +25,9 @@
         <forname>Ruben</forname>
         <roleName type="honorific">Hebrew Cemetery Keeper</roleName>
         <roleName type="office">Mayor</roleName>
+        <birth when="23-02-1918"/>
+        <birth where="Houston, TX"/>
+        <death when="21-07-2014"/>
+        <death where="Brownsville, TX"/>
     </persName>
 </s>

@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<s>
+    <persName xml="nson">
+        <surname>Sondock</surname>
+        <forname>Ned</forname>
+        <note>Owner of local office supplies store.</note>
+    </persName>
+</s>
+<s>
+    <persName xml="aphi">
+        <surname>Phillipsborn</surname>
+        <forname>Adolph</forname>
+        <roleName type="honorific">Rabbi</roleName>
+    </persName>
+</s>

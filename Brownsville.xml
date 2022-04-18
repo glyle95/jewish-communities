@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+    <persName xml="sper">
+        <surname>Perl</surname>
+        <forname>Sam</forname>
+        <roleName type="honorific">Lay Rabbi</roleName>
+        <note>Owner of Perl Brothers</note>
+    </persName>
+</s>
+<s>
+    <persName xml="lper">
+        <surname>Perl</surname>
+        <formane>Leon</formane>
+        <note>Owner of Perl Brothers</note>
+    </persName>
+</s>
+<s>
+    <persName xml="redl">
+        <surname>Edelstein</surname>
+        <forname>Ruben</forname>
+        <roleName type="honorific">Hebrew Cemetery Keeper</roleName>
+        <roleName type="office">Mayor</roleName>
+    </persName>
+</s>

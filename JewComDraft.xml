@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s>
+    <persName>
+    <surname>Edelstein</surname>
+    <forename>Ruben</forename>
+    <roleName type="office">Mayor</roleName>
+        <roleName type="honorific">Cemetry Keeper</roleName>
+</persName>
+</s>
+<s>    
+    <persName>
+    <surname>Perl</surname>
+    <forename>Sam</forename>
+    <roleName type="honorific">Lay Rabbi</roleName>
+    </persName>
+</s>
+
+<s>
+    <persName>
+        <surname>Kolhberg</surname>
+        <forename>Olga</forename>
+    </persName>
+</s>
+<person xml: id="okoh">
+    <persName>Olga Bernstein Kohlberg</persName>
+    <birth when="1864-8-2"/>
+    <birth where="Westphalia"/>
+    <death when="1935-8-12/>
+        <death where="El Paso"/>
+        <roleName type="office">Preisdent</roleName>
+        <person xml:id="cwol">
+            <persName>Charles Wolf</persName>
+            <note type="desc">Temple Emanuel as founded at Charles Wolf's house</note>
+        </person>
+        <person xml:id="awes">
+            <persName>Adolph Westerman</persName>
+            <note type="desc">Adloph Westerman was one of the founding members of Temple
+                Emanuel and popular merchant in the Rio Grande Valley.</note>
+        </person>
+        <person xml:id="slac">
+            <persName>Sam Lack</persName>
+            <note type="desc">Sam Lack was one of the founding members of Temple Emanuel and
+                prominent Israel Bonds advocate.</note>
+        </person>
+        <person xml:id="bkow">
+            <persName>Benjamin Kowalski</persName>
+            <note type="desc">Benjamin Kowalski served as mayor of Brownsville in
+                1876.</note>
+        </person>
+        <person xml:id="sede">
+            <persName>Sophye Edelestein</persName>
+            <persName>Mrs. J. Edelstein</persName>
+            <persName>Mrs. Jacob Edelstein</persName>
+            <note type="desc">Sophye Edelstein was the Sunday School teacher at Temple Beth
+                Israel and Temple Emanuel for many years and was involved in the Temple
+                Emanuel Sisterhood and Hadassah.</note>
+                </listPerson>

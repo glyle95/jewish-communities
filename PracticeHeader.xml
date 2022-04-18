@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="out/McAllen.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/McAllen.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">McAllen Jewish Community</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Gabrielle Lyle</publisher>
+                <pubPlace>College Station, TX</pubPlace>
+                <date>Fall 2019</date>
+                <availability>
+                    <p>This work was provided to the publisher by Temple Emanuel, it can also be found at the Briscoe Center for American History at the University of Texas at Austin.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author></author>
+                    <title>Temple Emanuel 50 Years 1948-19988</title>
+                    <pubPlace>McAllen, Texas</pubPlace>
+                    <publisher>Temple Emanuel</publisher>
+                    <date when="1998">1998</date>
+                    <citedRange></citedRange>
+                    <biblScope unit="page">12-18</biblScope>
+                </bibl>    
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>

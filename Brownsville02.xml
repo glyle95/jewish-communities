@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brownsville Jewish Residents</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information collected by Gabrielle Lyle while conducting research for her MA thesis</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="sper">
+               <persName>
+                  <surname>Perl</surname>
+                  <forename>Sam</forename>
+                  <roleName type="honorific">Lay Rabbi</roleName>
+               </persName>
+               <birth when="1898">
+                  <location>
+                     <geo>42.7208 20.6089</geo>
+                     <settlement>Podjace</settlement>
+                     <country>Austria-Hungary</country>
+                  </location>
+               </birth>
+               <note>
+                  <rs ref="#lper">The lay rabbi</rs> was the friend of <persName ref="#sper">Perl</persName>.
+               </note>
+            </person>
+            <person>
+               <persName xml:id="lper">
+                  <surname>Perl</surname>
+                  <forename>Leon</forename>
+                  <note>Owner of Perl Brothers</note>
+               </persName>
+               <birth when="1888">
+                  <location>
+                     <geo>42.7208 20.6089</geo>
+                     <settlement>Podjace</settlement>
+                     <country>Austria-Hungary</country>
+                  </location>
+               </birth>
+            </person>
+            <person>
+               <persName xml:id="redl">
+                  <surname>Edelstein</surname>
+                  <forename>Ruben</forename>
+                  <roleName type="honorific">Hebrew Cemetery Keeper</roleName>
+                  <roleName type="office">Mayor</roleName>
+               </persName>
+               <birth when="1918-02-23">
+                  <location>
+                     <geo>29.762778 -95.383056</geo>
+                     <settlement>Houston</settlement>
+                     <region>Texas</region>
+                     <country>United States of America</country>
+                  </location>
+               </birth>
+            </person>
+            <person>
+               <persName xml:id="srub">
+                  <surname>Rubinsky</surname>
+                  <forename>Simon</forename>
+               </persName>
+               <birth when="1928-12-07">
+                  <location>
+                     <geo>25.930278 -97.484444</geo>
+                     <settlement>Brownsville</settlement>
+                     <region>Texas</region>
+                     <country>United States of America</country>
+                  </location>
+               </birth>
+            </person>
+            <person>
+               <persName xml:id="jrub">
+                  <surname>Rubinsky</surname>
+                  <forename>Joseph</forename>
+               </persName>
+               <birth>
+                  <country>Lithuania</country>
+               </birth>
+            </person>
+            <person>
+               <persName xml:id="brub">
+                  <surname>Rubinsky</surname>
+                  <forename>Bertha</forename>
+                  <forename>Betty</forename>
+               </persName>
+               <birth>
+                  <country>Lithuania</country>
+               </birth>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
